@@ -1,2 +1,2 @@
 # IndustrialCamera
-用于工业相机使用API
+工业相机通用接口的使用设计。
